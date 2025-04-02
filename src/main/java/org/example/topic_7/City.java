@@ -1,4 +1,4 @@
-package org.example;
+package org.example.topic_7;
 import jakarta.xml.bind.annotation.XmlAttribute;
 import jakarta.xml.bind.annotation.XmlElement;
 import jakarta.xml.bind.annotation.XmlRootElement;

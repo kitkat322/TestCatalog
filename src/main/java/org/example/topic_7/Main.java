@@ -1,4 +1,4 @@
-package org.example;
+package org.example.topic_7;
 
 //Створіть клас, використовуючи JAXB, де опишіть ієрархію XML файлу. Необхідно, щоб проект створював XML-файл
 // і будував дерево (місто, назва вулиці, будинок). У місті використовуйте аттрибут (наприклад, <city size=”big>Kiev</city>).
@@ -7,6 +7,7 @@ import jakarta.xml.bind.JAXBContext;
 import jakarta.xml.bind.JAXBException;
 import jakarta.xml.bind.Marshaller;
 import jakarta.xml.bind.Unmarshaller;
+
 import java.io.File;
 
 public class Main {
